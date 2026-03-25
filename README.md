@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository contains the Python implementation of the **CLEARIS** framework, developed for **prognostic risk assessment in cervical clear cell adenocarcinoma (CCCA)**.
+This repository contains the Python implementation of the **CLEARIS** framework, developed for **prognostic risk assessment in cervical clear cell adenocarcinoma (CCAC)**.
 
 The codebase focuses on:
 
