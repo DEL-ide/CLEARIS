@@ -19,7 +19,7 @@ All features used in this study were pre-selected in the R environment and are d
 
 🌐 **Web Application:**
 A web-based implementation of the CLEARIS model is available at:
-👉 https://ccacsurvival.com/
+👉 http://ccacsurvival.com/
 
 ---
 
