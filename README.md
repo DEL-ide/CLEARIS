@@ -64,7 +64,7 @@ The Python implementation of CLEARIS includes the following components:
 The pipeline generates:
 
 * Individual patient risk scores
-* Time-dependent risk predictions (e.g., 1-, 3-, and 5-year survival risk)
+* Time-dependent risk predictions (e.g., 3-, 4-, and 5-year survival risk)
 * Survival analysis visualizations suitable for publication
 
 ---
